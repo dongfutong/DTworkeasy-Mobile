@@ -41,8 +41,7 @@
 2. 打开 APK；若系统提示未知来源，允许当前浏览器 / 文件管理器安装
 3. 打开 DTworkeasy，使用东复同账号登录（未注册请先在官网注册）
 
-推荐优先使用与官网一致的正式包：`DTworkeasy-android-1.0.8.26101702.apk`。  
-仓库中另提供更新构建的通用包 / arm64 包（见下表），可按设备选择。
+推荐优先使用与官网一致的正式包：`DTworkeasy-android-1.0.8.26101901.apk`（universal）。
 
 #### iOS
 
@@ -54,9 +53,7 @@
 
 | 平台 | 文件名 | 说明 |
 |------|--------|------|
-| Android（官网正式包） | `DTworkeasy-android-1.0.8.26101702.apk` | universal，与官网下载中心一致 |
-| Android（本地构建 universal） | `DTworkeasy-android-1.0.8.26101740.apk` | 较新构建，通用包 |
-| Android（arm64） | `DTworkeasy-android-1.0.8.26101740-arm64-v8a.apk` | 仅 arm64-v8a，体积更小 |
+| Android（官网正式包） | `DTworkeasy-android-1.0.8.26101901.apk` | universal，与官网下载中心一致 |
 | iOS | — | 仅 App Store：https://apps.apple.com/cn/app/dtworkeasy/id6806894230 |
 
 ### 截图
@@ -98,7 +95,7 @@
 
 ### Install
 
-**Android:** download an APK from [Releases](../../releases) or the [official download center](https://www.dtrony.com/). Prefer `DTworkeasy-android-1.0.8.26101702.apk` for the site-published build. Allow install from unknown sources if prompted, then sign in.
+**Android:** download an APK from [Releases](../../releases) or the [official download center](https://www.dtrony.com/). Prefer `DTworkeasy-android-1.0.8.26101901.apk` for the site-published build. Allow install from unknown sources if prompted, then sign in.
 
 **iOS:** install from the [App Store](https://apps.apple.com/cn/app/dtworkeasy/id6806894230). No IPA is published on the website.
 
@@ -124,6 +121,6 @@
 
 ---
 
-**Suggested Release tag:** `v1.0.8.26101702`（对齐官网 Android）或 `v1.0.8.26101740`（对齐本地较新构建）  
+**Suggested Release tag:** `v1.0.8.26101901`（对齐官网 Android）  
 **iOS:** App Store `1.0.13`（build 26101701）  
 **Docs:** https://www.dtrony.com/docs/install-dtworkeasy
