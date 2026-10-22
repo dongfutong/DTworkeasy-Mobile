@@ -8,7 +8,7 @@
 
 > Distribution-only repository. Installers and docs only — **no source code**.
 
-官网：[www.dtrony.com](https://www.dtrony.com) · 文档：[安装 DTworkeasy](https://www.dtrony.com/docs/install-dtworkeasy) · App Store：[DTworkeasy](https://apps.apple.com/cn/app/dtworkeasy/id6806894230) · 姊妹产品：[BFBT Code](https://github.com/dongfutong/BFBTCode) · [DTworkeasy Bridge](https://github.com/dongfutong/DTworkeasy-Bridge)
+官网：[www.dtrony.com](https://www.dtrony.com) · 文档：[安装 DTworkeasy](https://www.dtrony.com/docs/install-dtworkeasy) · App Store：[DTworkeasy](https://apps.apple.com/cn/app/dtworkeasy/id6806894230) · 姊妹产品：[BFBT Code](https://github.com/dongfutong/BFBTCode) · [BFBTbridge](https://github.com/dongfutong/BFBTbridge)
 
 ---
 
@@ -16,13 +16,13 @@
 
 ### 一句话简介
 
-**DTworkeasy** 是东复同科技的手机端协同软件：管理文件、协同文档、与同事即时沟通；也可远程控制电脑上的 **BFBT Code**（需电脑端安装 Bridge 或桌面版并完成配对）。注册官网账号即可免费使用，**不要求会员**。
+**DTworkeasy** 是东复同科技的手机端协同软件：管理文件、协同文档、与同事即时沟通；也可远程控制电脑上的 **BFBT Code**（需电脑端安装 BFBTbridge 或桌面版并完成配对）。注册官网账号即可免费使用，**不要求会员**。
 
 ### 主要特性
 
 - 📁 **文件管理**：在手机上整理与访问工作文件
 - 💬 **即时通讯**：与团队保持沟通
-- 🖥️ **远程控制**：连接电脑端 BFBT Code / Agent Bridge，人在外面也能继续干活
+- 🖥️ **远程控制**：连接电脑端 BFBT Code / BFBTbridge，人在外面也能继续干活
 - 🔐 **统一账号**：与官网、BFBT Code 同一套账号登录
 - 🆓 **免费使用**：DTworkeasy 对所有注册用户免费（电脑端 BFBT Code 需试用或会员）
 
@@ -68,7 +68,7 @@
 ### 与姊妹产品一起用
 
 1. 电脑安装 [BFBT Code](https://github.com/dongfutong/BFBTCode)（试用或会员）
-2. 如需远控 Cursor / Codex 等，另装 [DTworkeasy Bridge](https://github.com/dongfutong/DTworkeasy-Bridge) 并保持运行
+2. 如需远控 Cursor / Codex 等，另装 [BFBTbridge](https://github.com/dongfutong/BFBTbridge) 并保持运行
 3. 手机安装本应用并登录同一账号，扫码配对
 
 远控时：电脑端 BFBT Code 必须处于试用或会员可用状态；仅装手机端而电脑端已过期，无法远控。
@@ -89,7 +89,7 @@
 ### Features
 
 - File management and team messaging on your phone
-- Remote control of BFBT Code / Agent Bridge on Windows, macOS, or Linux
+- Remote control of BFBT Code / BFBTbridge on Windows, macOS, or Linux
 - Same account as www.dtrony.com and BFBT Code
 - Free mobile use; BFBT Code desktop/TUI still needs trial or membership
 
@@ -102,7 +102,7 @@
 ### Sister products
 
 - [BFBT Code](https://github.com/dongfutong/BFBTCode) — AI coding IDE (Windows / macOS / Linux TUI)  
-- [DTworkeasy Bridge](https://github.com/dongfutong/DTworkeasy-Bridge) — PC-resident bridge for Cursor / Codex / remote agents  
+- [BFBTbridge](https://github.com/dongfutong/BFBTbridge) — PC-resident bridge for Cursor / Codex / remote agents  
 
 ### License note
 
