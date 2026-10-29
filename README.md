@@ -24,7 +24,7 @@
 - 💬 **即时通讯**：与团队保持沟通
 - 🖥️ **远程控制**：连接电脑端 BFBT Code / BFBTbridge，人在外面也能继续干活
 - 🔐 **统一账号**：与官网、BFBT Code 同一套账号登录
-- 🆓 **免费使用**：DTworkeasy 对所有注册用户免费（电脑端 BFBT Code 需试用或会员）
+- 🆓 **免费使用**：DTworkeasy 对所有注册用户免费（电脑端 BFBT Code 与 BFBTbridge 需试用或会员）
 
 ### 系统要求
 
@@ -68,10 +68,10 @@
 ### 与姊妹产品一起用
 
 1. 电脑安装 [BFBT Code](https://github.com/dongfutong/BFBTCode)（试用或会员）
-2. 如需远控 Cursor / Codex 等，另装 [BFBTbridge](https://github.com/dongfutong/BFBTbridge) 并保持运行
+2. 如需远控 Cursor / Codex 等，另装 [BFBTbridge](https://github.com/dongfutong/BFBTbridge) 并保持运行（同样需试用或会员，规则与 BFBT Code 相同）
 3. 手机安装本应用并登录同一账号，扫码配对
 
-远控时：电脑端 BFBT Code 必须处于试用或会员可用状态；仅装手机端而电脑端已过期，无法远控。
+远控时：电脑端 BFBT Code 与/或 BFBTbridge 必须处于试用或会员可用状态；仅装手机端而电脑端产品已过期，无法远控。
 
 ### 许可与声明
 
@@ -91,7 +91,7 @@
 - File management and team messaging on your phone
 - Remote control of BFBT Code / BFBTbridge on Windows, macOS, or Linux
 - Same account as www.dtrony.com and BFBT Code
-- Free mobile use; BFBT Code desktop/TUI still needs trial or membership
+- Free mobile use; BFBT Code and BFBTbridge on the PC still need an active trial or membership
 
 ### Install
 
@@ -101,8 +101,10 @@
 
 ### Sister products
 
-- [BFBT Code](https://github.com/dongfutong/BFBTCode) — AI coding IDE (Windows / macOS / Linux TUI)  
-- [BFBTbridge](https://github.com/dongfutong/BFBTbridge) — PC-resident bridge for Cursor / Codex / remote agents  
+- [BFBT Code](https://github.com/dongfutong/BFBTCode) — AI coding IDE (Windows / macOS / Linux TUI); requires an active trial or membership  
+- [BFBTbridge](https://github.com/dongfutong/BFBTbridge) — PC-resident bridge for Cursor / Codex / remote agents; same trial-or-membership rule as BFBT Code  
+
+Remote control only works while the PC-side product(s) you connect through (BFBT Code and/or BFBTbridge) are in an active trial or membership — the phone app alone is not enough if the PC products have expired.
 
 ### License note
 
@@ -113,11 +115,11 @@
 
 ## 日本語（抜粋）
 
-**DTworkeasy** はスマホ向けコラボアプリです。ファイル管理・コミュニケーションに加え、PC 上の BFBT Code を遠隔操作できます。登録すれば無料（会員不要）。Android は本リポジトリまたは公式サイトの APK、iOS は App Store。配布専用（ソース無し）。https://www.dtrony.com
+**DTworkeasy** はスマホ向けコラボアプリです。ファイル管理・コミュニケーションに加え、PC 上の BFBT Code を遠隔操作できます。登録すれば無料（会員不要）。PC 側の BFBT Code / BFBTbridge には試用または会員（メンバーシップ）が必要です。Android は本リポジトリまたは公式サイトの APK、iOS は App Store。配布専用（ソース無し）。https://www.dtrony.com
 
 ## 한국어（요약）
 
-**DTworkeasy**는 모바일 협업 앱입니다. 파일·메시지와 함께 PC의 BFBT Code를 원격 제어할 수 있습니다. 회원가입만 하면 무료(멤버십 불필요). Android는 본 저장소/공식 APK, iOS는 App Store. 배포 전용(소스 없음). https://www.dtrony.com
+**DTworkeasy**는 모바일 협업 앱입니다. 파일·메시지와 함께 PC의 BFBT Code를 원격 제어할 수 있습니다. 회원가입만 하면 무료(멤버십 불필요). PC 측 BFBT Code / BFBTbridge는 체험 또는 멤버십이 필요합니다. Android는 본 저장소/공식 APK, iOS는 App Store. 배포 전용(소스 없음). https://www.dtrony.com
 
 ---
 
